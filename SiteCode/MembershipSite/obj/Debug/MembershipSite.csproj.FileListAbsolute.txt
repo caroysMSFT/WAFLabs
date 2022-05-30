@@ -1,0 +1,9 @@
+C:\Projects\WAF Labs\SiteCode\MembershipSite\bin\MembershipSite.dll.config
+C:\Projects\WAF Labs\SiteCode\MembershipSite\bin\MembershipSite.dll
+C:\Projects\WAF Labs\SiteCode\MembershipSite\bin\MembershipSite.pdb
+C:\Projects\WAF Labs\SiteCode\MembershipSite\bin\HashLibrary.dll
+C:\Projects\WAF Labs\SiteCode\MembershipSite\obj\Debug\MembershipSite.csproj.AssemblyReference.cache
+C:\Projects\WAF Labs\SiteCode\MembershipSite\obj\Debug\MembershipSite.csproj.CoreCompileInputs.cache
+C:\Projects\WAF Labs\SiteCode\MembershipSite\obj\Debug\MembershipSite.csproj.CopyComplete
+C:\Projects\WAF Labs\SiteCode\MembershipSite\obj\Debug\MembershipSite.dll
+C:\Projects\WAF Labs\SiteCode\MembershipSite\obj\Debug\MembershipSite.pdb
